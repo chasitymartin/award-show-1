@@ -1,4 +1,40 @@
 img {
-    width: 200px;
-    height: 300px;
+    width: 300px;
+    height: 400px;
+}
+.movie {
+    color: pink;
+}
+.show {
+    color: gray;
+}
+.actor {
+    color: gray;
+}
+.actress {
+    color: pink;
+}
+p { 
+    font-family: 'Ranga', cursive;
+}
+body {
+    background-color: black;
+}
+p {
+    color: gray;
+}
+html {
+    text-align: center;
+}
+h1 {
+    font-family: 'Indie Flower', cursive;
+}
+h2 {
+    font-family: 'Amatic SC', cursive;
+}
+h3 {
+    font-family: 'Patrick Hand', cursive;
+}
+h4 {
+    font-family: 'Mali', cursive;
 }
